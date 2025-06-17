@@ -47,6 +47,7 @@ Se realiza análisis descriptivo de heridos, muertos y víctimas por accidente, 
 
 ## 📊 Visualización (Power BI)
 
+![image](https://github.com/user-attachments/assets/2ed585ef-e0c8-4a05-8150-71b540ddf21f)
 Se incluye un dashboard interactivo con:
 - Accidentes por año y departamento.
 - Causas y tipos de accidentes más frecuentes.
