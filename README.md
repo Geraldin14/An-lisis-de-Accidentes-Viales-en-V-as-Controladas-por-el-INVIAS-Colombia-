@@ -1,6 +1,6 @@
 # Análisis de Accidentes Viales en Vías Controladas por el INVIAS (Colombia)
 
-Este proyecto tiene como objetivo analizar la accidentalidad vial en Colombia en las vías controladas por el Instituto Nacional de Vías (INVIAS), utilizando Python y Power BI. Se realiza una exploración de los datos históricos (2017– 2024 ) para propósitos de análisis y visualización.
+Este proyecto tiene como objetivo analizar la accidentalidad vial en Colombia en las vías controladas por el Instituto Nacional de Vías (INVIAS), utilizando Python y Power BI. Se realiza una exploración de los datos históricos (2022– 2024 ) para propósitos de análisis y visualización.
 
 ## 📌 Introducción
 
@@ -15,7 +15,7 @@ El Instituto Nacional de Vías (INVIAS) es la entidad encargada de la infraestru
 
 ## 🔍 Dataset
 
-- **Original**: Accidentalidad Vial 2017 -  2024 (Fuente: INVIAS, Datos Abiertos Colombia)
+- **Original**: Accidentalidad Vial 2022 -  2024 (Fuente: INVIAS, Datos Abiertos Colombia)
 
 | Campo              | Descripción                                      |
 |--------------------|--------------------------------------------------|
@@ -53,7 +53,7 @@ Se incluye un dashboard interactivo con:
 
 ## 📁 Archivos
 
-- `Accidentalidad_Vial_2017_-_2024.csv` – Datos reales.
+- `Accidentalidad_Vial_2022_-_2024.csv` – Datos reales.
 - `dashboard.pbix` – Panel de Power BI.
 - `notebook_analisis.ipynb` – Análisis exploratorio en Python.
 
@@ -61,7 +61,7 @@ Se incluye un dashboard interactivo con:
 
 - La mayoría de los accidentes se concentran en Antioquia, Boyacá y Córdoba.
 - Las causas más frecuentes son exceso de velocidad y falta de distancia.
-- El número de víctimas ha disminuido progresivamente desde 2017.
+- El número de víctimas ha disminuido progresivamente desde 2022.
 - Los accidentes se presentan más en curvas y bajo lluvia.
 
 ## 🚀 Recomendaciones
