@@ -1,3 +1,5 @@
+
+![image](https://github.com/user-attachments/assets/e56445ea-deea-4304-b681-def7d8489249)
 # Análisis de Accidentes Viales en Vías Controladas por el INVIAS (Colombia)
 
 Este proyecto tiene como objetivo analizar la accidentalidad vial en Colombia en las vías controladas por el Instituto Nacional de Vías (INVIAS), utilizando Python y Power BI. Se realiza una exploración de los datos históricos (2022– 2024 ) para propósitos de análisis y visualización.
